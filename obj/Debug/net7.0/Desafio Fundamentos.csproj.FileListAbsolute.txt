@@ -1,0 +1,28 @@
+C:\Users\gilxa\source\repos\bootcamp DIO\Desafio Fundamentos\bin\Debug\net7.0\Desafio Fundamentos.exe
+C:\Users\gilxa\source\repos\bootcamp DIO\Desafio Fundamentos\bin\Debug\net7.0\Desafio Fundamentos.deps.json
+C:\Users\gilxa\source\repos\bootcamp DIO\Desafio Fundamentos\bin\Debug\net7.0\Desafio Fundamentos.runtimeconfig.json
+C:\Users\gilxa\source\repos\bootcamp DIO\Desafio Fundamentos\bin\Debug\net7.0\Desafio Fundamentos.dll
+C:\Users\gilxa\source\repos\bootcamp DIO\Desafio Fundamentos\bin\Debug\net7.0\Desafio Fundamentos.pdb
+C:\Users\gilxa\source\repos\bootcamp DIO\Desafio Fundamentos\obj\Debug\net7.0\Desafio Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gilxa\source\repos\bootcamp DIO\Desafio Fundamentos\obj\Debug\net7.0\Desafio Fundamentos.AssemblyInfoInputs.cache
+C:\Users\gilxa\source\repos\bootcamp DIO\Desafio Fundamentos\obj\Debug\net7.0\Desafio Fundamentos.AssemblyInfo.cs
+C:\Users\gilxa\source\repos\bootcamp DIO\Desafio Fundamentos\obj\Debug\net7.0\Desafio Fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\gilxa\source\repos\bootcamp DIO\Desafio Fundamentos\obj\Debug\net7.0\Desafio Fundamentos.dll
+C:\Users\gilxa\source\repos\bootcamp DIO\Desafio Fundamentos\obj\Debug\net7.0\refint\Desafio Fundamentos.dll
+C:\Users\gilxa\source\repos\bootcamp DIO\Desafio Fundamentos\obj\Debug\net7.0\Desafio Fundamentos.pdb
+C:\Users\gilxa\source\repos\bootcamp DIO\Desafio Fundamentos\obj\Debug\net7.0\Desafio Fundamentos.genruntimeconfig.cache
+C:\Users\gilxa\source\repos\bootcamp DIO\Desafio Fundamentos\obj\Debug\net7.0\ref\Desafio Fundamentos.dll
+C:\Users\gilxa\source\repos\bootcamp DIO\Desafio Fundamentos DIO\bin\Debug\net7.0\Desafio Fundamentos.exe
+C:\Users\gilxa\source\repos\bootcamp DIO\Desafio Fundamentos DIO\bin\Debug\net7.0\Desafio Fundamentos.deps.json
+C:\Users\gilxa\source\repos\bootcamp DIO\Desafio Fundamentos DIO\bin\Debug\net7.0\Desafio Fundamentos.runtimeconfig.json
+C:\Users\gilxa\source\repos\bootcamp DIO\Desafio Fundamentos DIO\bin\Debug\net7.0\Desafio Fundamentos.dll
+C:\Users\gilxa\source\repos\bootcamp DIO\Desafio Fundamentos DIO\bin\Debug\net7.0\Desafio Fundamentos.pdb
+C:\Users\gilxa\source\repos\bootcamp DIO\Desafio Fundamentos DIO\obj\Debug\net7.0\Desafio Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gilxa\source\repos\bootcamp DIO\Desafio Fundamentos DIO\obj\Debug\net7.0\Desafio Fundamentos.AssemblyInfoInputs.cache
+C:\Users\gilxa\source\repos\bootcamp DIO\Desafio Fundamentos DIO\obj\Debug\net7.0\Desafio Fundamentos.AssemblyInfo.cs
+C:\Users\gilxa\source\repos\bootcamp DIO\Desafio Fundamentos DIO\obj\Debug\net7.0\Desafio Fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\gilxa\source\repos\bootcamp DIO\Desafio Fundamentos DIO\obj\Debug\net7.0\Desafio Fundamentos.dll
+C:\Users\gilxa\source\repos\bootcamp DIO\Desafio Fundamentos DIO\obj\Debug\net7.0\refint\Desafio Fundamentos.dll
+C:\Users\gilxa\source\repos\bootcamp DIO\Desafio Fundamentos DIO\obj\Debug\net7.0\Desafio Fundamentos.pdb
+C:\Users\gilxa\source\repos\bootcamp DIO\Desafio Fundamentos DIO\obj\Debug\net7.0\Desafio Fundamentos.genruntimeconfig.cache
+C:\Users\gilxa\source\repos\bootcamp DIO\Desafio Fundamentos DIO\obj\Debug\net7.0\ref\Desafio Fundamentos.dll
